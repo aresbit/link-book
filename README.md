@@ -7,3 +7,4 @@
 - [编译原理](https://verigu.github.io/4115Fall2022/) - Programming Languages and Translators
 - [硬件形式验证](https://sites.google.com/site/csee6863/)
 - [程序设计](https://composingprograms.com/)
+- https://course.ccs.neu.edu/cs3650sp22/syllabus.html
