@@ -8,3 +8,4 @@
 - [硬件形式验证](https://sites.google.com/site/csee6863/)
 - [程序设计](https://composingprograms.com/)
 - https://course.ccs.neu.edu/cs3650sp22/syllabus.html
+- ocaml编译原理 https://courses.ccs.neu.edu/cs4410/
