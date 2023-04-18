@@ -10,3 +10,10 @@
 - https://course.ccs.neu.edu/cs3650sp22/syllabus.html
 - ocaml编译原理 https://courses.ccs.neu.edu/cs4410/
 - https://reccap.it/recaps/266f0c4f-77d6-403d-8ab2-e2ee790fa44d
+- sk-3qlL8D3xK2G
+
+
+
+## next post
+- 4ZmwR5VXLT3BlbkFJLHQY
+- 7Q87Z6f4KKu5NI7H
